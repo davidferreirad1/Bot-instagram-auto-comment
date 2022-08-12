@@ -5,7 +5,7 @@
 e o comentário que deseja realizar.
  
  
- ##################### ATENÇÃO ###########################
+ ## ATENÇÃO
  
 >>CMBOT Estará sendo atualizado em tempos menores de 1 semana, dê uma olhada se está usando a versão nova. 
 >>TEMPO INTERVALO ENTRE COMENTAR FOTOS (1 MINUTO)
