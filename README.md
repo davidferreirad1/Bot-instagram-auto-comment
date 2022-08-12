@@ -1,5 +1,6 @@
 # Bot-instagram-auto-comment
 📘 - Este bot foi desenvolvido por mim com o objetivo de automatizar a tarefa repetitiva de comentar em fotos do instagram, utilizando a base de hashtags.
+
 🖥 - Utilizando o CMBOT, Você poderá estar escolhendo O Usuário e Senha de Sua conta. Respectivamente, Poderá escolher A hashtag que deseja procurar,
 e o comentário que deseja realizar.
  
